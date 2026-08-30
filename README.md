@@ -1,6 +1,6 @@
 # Cover
 
-**Local-first PDF redaction for Mac. Documents never leave your machine.**
+**Auto redact personal info (PII) from documents before sending to Ai. Documents never leave your machine.**
 
 Cover is a redaction engine that finds and removes personal information (PII) from your documents. Things like SSNs, account and routing numbers, names,
 addresses, dates of birth) from PDFs and images, entirely on your Mac.
